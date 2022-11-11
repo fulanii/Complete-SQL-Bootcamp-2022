@@ -1,0 +1,17 @@
+
+
+# SQL Statement Fundamentals
+
+``` sql
+
+SELECT
+SELECT DISTINCT
+COUNT
+SELECT WHERE
+ORDER BY
+LIMIT
+BETWEEN
+IN
+LIKE and ILIKE
+
+```
