@@ -6,6 +6,15 @@ Took this course to learn SQL, because I'm interested in Data Science, Data Anal
 
 <br>
 
+# Course sections
+- [SQL Statements](SQL-Statements)
+- [Group by Statements](GROUP-BY-Statements)
+- [Joins](Joins)
+- [Advanced SQL Commands](Advanced-SQL-Commands)
+- [Creating Dbs and Tables](Creating-DB-Tables)
+- [Conditional Expressions Procedures](Conditional-Expressions-Procedures)
+- [PostgreSQL - Python](PostgreSQL-Python)
+
 # What i learned in this course
 - Get started with PostgreSQL and PgAdmin: (two of the world's most popular SQL tools)
 
