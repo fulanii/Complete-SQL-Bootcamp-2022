@@ -1,10 +1,4 @@
 ## [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/)
----
-
-<br>
-Took this course to learn SQL, because I'm interested in Data Science, Data Analytics and Business Analytics. Knowing SQL will help alot with my cs degree or any career I go into. PostgreSQL is one of the most popular DMS for SQL, it's free and open source. I'll use this repo to post all my notes from the bootcamp, and I'll be building pojects in SQL and Python lookout for them on my github. 
-
-<br>
 
 # Course sections
 - [SQL Statements](SQL-Statements)
