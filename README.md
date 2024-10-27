@@ -32,12 +32,3 @@ Took this course to learn SQL, because I'm interested in Data Science, Data Anal
 
 - Learn to use Python to further advanced your SQL skills and much, much more!
 ---
-
-<br>
-
-# Certification
-![certification](certification.jpeg)
-This certificate above verifies that Yassine Issoufou successfully completed the course [The Complete SQL Bootcamp 2022: Go from Zero to Hero](https://www.udemy.com/course/the-complete-sql-bootcamp/) on 05/20/2022 as taught by Jose Portilla on Udemy. The certificate indicates the entire course was completed as validated by the student. The course duration represents the total video hours of the course at time of most recent completion.
-
-@github.com/fulanii
-
